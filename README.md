@@ -8,6 +8,8 @@ While the data is based on activity that occurred in New York City which is very
 
 This uses data from August 2019 to build the analysis. It is assumed that there is more traffic or usage during the summer months compared to other times of the year in which weather can impact activity.
 
+The story for the visaulization cane be visalised in [NY BikeSharing Story](https://public.tableau.com/views/CityBike_16546602486520/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
 ## Results:
 ## Deliverable 1:
 Used Pandas to change the datatype of the "trip duration" column from an integer to a datetime datatype to get the time in hours and minutes.Once you change the datatype, you’ll export the DataFrame as a CSV file to use for the visualizations in Deliverable 2. The newly created tripduation column is name "new_tripduration" and renamed as "Tripduration." in tableau.
