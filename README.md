@@ -30,13 +30,13 @@ There were total of 2,344,224 rides.<br>
   No of males utilizing biking service is dominant in this pie chart.<br>
   ![Gender Breakdown](https://github.com/ashwinihegde28/bikesharing/blob/main/Resources/images/genderBreakdown.PNG)<br><br>
 
- ### Peak Riding Hours in the Month of August:
+### Peak Riding Hours in the Month of August:
   Based on the bar chart, the top riding hours during August in New York City is 5:00 p.m to 7:00 p.m.
   <br>
   ![August Peak Riding Hours](https://github.com/ashwinihegde28/bikesharing/blob/main/Resources/images/AugustPeakHours.PNG)<br><br>
   
   
-  ### Average Trip Duration by Age:
+### Average Trip Duration by Age:
   In general, the later the birth year, the longer the ride duration.<br>
   ![Average Trip Duration](https://github.com/ashwinihegde28/bikesharing/blob/main/Resources/images/AverageTripDuration.PNG)<br><br>
   
@@ -78,7 +78,7 @@ Graph displays males subscribers are the highest users followed by female subscr
   
 ### Additional analysis would be beneficial by :
 - To include analysis of the Bike sharing data for other months of the year against each metrics that we performed to see if the results are similar or different.
-- Analysis can be performed on different b=nearby places or cities.
+- Analysis can be performed on different nearby places or cities.
 - During rush hours we can suggest alternative routes to avoid the traffic.
 - Weather data can also be used to find the correlation between the weather and the rides. 
   
